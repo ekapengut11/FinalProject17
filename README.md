@@ -8,6 +8,7 @@ The sum of all the players on one team is taken.
 The team with the highest score wins the game for the week!
 
 Thanks to Mrs. Gerstien, Damon Artis, Julien Heurteux, and Arthur Golec for help in this game.
+Flowchart - https://www.draw.io/#G1qLfRwSZb35qQZrhdsIKUo9p5P0ADD7Fk
 =======
 # FinalProject17
 Final Project for the Fall of 2017
